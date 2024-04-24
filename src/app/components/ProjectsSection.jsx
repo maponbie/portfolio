@@ -27,12 +27,12 @@ const projectsData = [
 
   {
     id: 3,
-    title: "E-Commerce Website",
-    description: "Description: Development in Progress",
-    image: "/images/projects/5.png",
+    title: "Spring Boot Task Manager",
+    description: "Task Manager is the go-to solution for seamless task management, powered by the robust Spring Boot framework. Whether you&apos;re organizing your to-dos, tracking projects, or managing deadlines, TaskMaster makes it easy with its intuitive interface and powerful features. Team Size: 1",
+    image: "/images/projects/spring_task.png",
     tag: ["All", "Web"],
     gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://www.youtube.com/watch?v=y3RcrOTv2WU",
   },
 
   {
