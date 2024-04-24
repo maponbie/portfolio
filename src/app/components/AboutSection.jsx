@@ -41,7 +41,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>Python</li>
         <li>Java</li>
-        <li>Spring Framework</li>
+        <li>Spring Boot/Framework</li>
         <li>C/C++</li>
         <li>PostgreSQL</li>
         <li>MongoDB</li>
