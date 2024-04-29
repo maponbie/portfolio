@@ -27,6 +27,16 @@ const projectsData = [
 
   {
     id: 3,
+    title: "Banking App",
+    description: "The Banking App features finely-tuned backend REST APIs, powered by Spring Boot and Spring Data JPA / Hibernate. These APIs efficiently handle account operations like creation, deposit, withdrawal, and deletion. Team Size: 1",
+    image: "/images/projects/bank_api.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/maponbie/banking-app/tree/master/src/main/java/maponbie/banking/bankingapp",
+    previewUrl: "https://youtu.be/DwGITVvUamQ",
+  },
+
+  {
+    id: 4,
     title: "Spring Boot Task Manager",
     description: "Task Manager is the go-to solution for seamless task management, powered by the robust Spring Boot framework. Whether you are organizing your to-dos, tracking projects, or managing deadlines, TaskMaster makes it easy with its intuitive interface and powerful features. Team Size: 1",
     image: "/images/projects/spring_task.png",
@@ -36,7 +46,7 @@ const projectsData = [
   },
 
   {
-    id: 4,
+    id: 5,
     title: "Mapping Tracker Application",
     description: "Description: Development in Progress",
     image: "/images/projects/4.png",
@@ -46,7 +56,7 @@ const projectsData = [
   },
 
   {
-    id: 5,
+    id: 6,
     title: "MS Paint (Java Rendition)",
     description: "Employed Java and JavaFX to create a graphics editor, offering users vital tools to draw and edit images utilizing a pixel-based canvas. Team Size: 1",
     image: "/images/projects/paint.png",
@@ -56,7 +66,7 @@ const projectsData = [
   },
 
   {
-    id: 6,
+    id: 7,
     title: "The Druid's Reckoning",
     description: "The Druid's Reckoning, a 3D third-person RPG video game driven by Unreal Engine 5 (UE5), embodies an immersive gaming experience intricately developed through Agile methodologies and close collaboration with the storytelling team, vividly bringing the narrative to life. Team Size: 4",
     image: "/images/projects/game.png",
