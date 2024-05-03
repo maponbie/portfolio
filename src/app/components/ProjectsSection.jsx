@@ -49,7 +49,7 @@ const projectsData = [
     id: 5,
     title: "Mapping Tracker Application",
     description: "Description: Development in Progress",
-    image: "/images/projects/4.png",
+    image: "/images/projects/4.jpg",
     tag: ["All", "Mobile"],
     gitUrl: "/",
     previewUrl: "/",
