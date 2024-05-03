@@ -70,7 +70,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Outstanding Leadership and Service Award (Valparaiso University)</li>
-        <li>Recipient of the 2024 Class&apos;s Top International Student Award (Valparaiso University)</li>
+        <li>Recipient of the Christ College Medallion for Outstanding Scholarly Study (Honors College of Valparaiso University)</li>
         <li>Omicron Delta Kappa (Valpo Circle)</li>
       </ul>
     ),
