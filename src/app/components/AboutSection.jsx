@@ -72,6 +72,7 @@ const TAB_DATA = [
         <li>Outstanding Leadership and Service Award (Valparaiso University)</li>
         <li>Recipient of the Christ College Medallion for Outstanding Scholarly Study (Honors College of Valparaiso University)</li>
         <li>Omicron Delta Kappa (Valpo Circle)</li>
+        <li>High School Valedictorian Award</li>
       </ul>
     ),
   },
